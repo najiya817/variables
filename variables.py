@@ -1,0 +1,13 @@
+a=10
+number=20
+number1=30
+number2=40
+_number=50
+Number1=60
+print(a)
+print(number)
+print(number1)
+print(number2)
+print(_number)
+print(Number1)
+print(a+number)
